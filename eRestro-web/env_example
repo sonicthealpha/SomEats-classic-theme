@@ -1,0 +1,10 @@
+# BASE URL of your Admin panel, 
+# and the API URL which you can find in the admin panel
+# please don't forget to add a trailing slash. 
+
+## for example :
+# REACT_APP_ADMIN_PANEL_URL = "https://YOUR.ADMIN.APP/"
+# REACT_APP_API_URL = "https://YOUR.ADMIN.APP/app/v1/api/"
+
+
+REACT_APP_MAP_API_KEY = "***************************************&libraries"
