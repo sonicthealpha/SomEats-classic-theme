@@ -99,7 +99,7 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "ftp-deploy": "^2.4.3"
-  }
+  },
   "engines": {
   "node": "18.x"
   }
